@@ -1,0 +1,10 @@
+------------------------------------------------------------------------------------------------------
+What I asked:
+To Mr.Aiello:
+  How am I supposed to create these animations? I don't know how to convert them.
+------------------------------------------------------------------------------------------------------
+What Solution I recieved:
+To Mr.Aiello:
+  Was able to turn all the wanted methods, titles, image stack, and the text across the screen correctly.
+  In the end he was able to make sure that I could run all the neccesary effects without them crashing.
+------------------------------------------------------------------------------------------------------
